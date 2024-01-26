@@ -16,7 +16,7 @@ const techs = [
 ]
 const Experience = () => {
   return (
-    <div name='experience' className='w-full   h-screen bg-gradient-to-b from-gray-800  to-black'>
+    <div name='Experience' className='w-full   h-screen bg-gradient-to-b from-gray-800  to-black'>
         <div className='max-w-screen-lg mx-auto flex flex-col justify-center w-full h-full text-white'> 
             <div className='px-4'>
                 <p className='text-4xl font-bold border-b-4 border-gray-500 p-2 inline'> 

@@ -16,7 +16,7 @@ const Portfolio = () => {
     ]
   return (
     <div>
-        <div name='portfolio' className='w-full  bg-gradient-to-b from-black to-gray-800 text-white px-3 pb-8'   >
+        <div name='Portfolio' className='w-full  bg-gradient-to-b from-black to-gray-800 text-white px-3 pb-8'   >
             <div className='max-w-screen-lg p-4 mx-auto flex flex-col  w-full'>
               <div className='pb-3'>
               <p className='text-4xl font-bold inline border-b-4 border-gray-500'>Portfolio</p>
